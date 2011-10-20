@@ -20,7 +20,7 @@ MasDetalles Share le permite compartir sus enlaces en el marcador social Masdeta
 1. Upload the MasDetalles-share directory (including all files within) to the `/wp-content/plugins/` directory
 2. Activate the plugin through the `Plugins` menu in WordPress
 
-Español:
+Spanish:
 1. Sube el directorio MasDetalles-Shate (incluyendo todos los archivos) al directorio /wp-content/plugins/
 2. Activa el plugin en el menu "Plugins" de WordPress.
 
@@ -29,7 +29,7 @@ Español:
 1. Upload the MasDetalles-share directory (including all files within) to the `/wp-content/plugins/` directory
 2. Activate the plugin through the `Plugins` menu in WordPress
 
-Español:
+Spanish:
 
 1. Subir el directorio MasDetalles-Share (incluyendo todos los archivos) al directorio /wp-content/plugins/
 2. Activar el plugin en el menu "Plugins" de WordPress.
